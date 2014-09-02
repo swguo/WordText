@@ -1,0 +1,67 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: #9CF;
+	margin-top: 0px;
+}
+#header {
+	background-color: #FFF;
+	height: 153px;
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+	border: solid 1px #CCC; /* 邊框樣式 */
+	-moz-box-shadow: 1px 1px 5px #999; /* Firefox */
+	-webkit-box-shadow: 1px 1px 5px #999; /* Safari 和 Chrome */
+	box-shadow: 1px 1px 5px #999; /* Opera 10.5 + */
+}
+#main {
+	background-color: #FFF;
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+	border: solid 1px #CCC; /* 邊框樣式 */
+	-moz-box-shadow: 1px 1px 5px #999; /* Firefox */
+	-webkit-box-shadow: 1px 1px 5px #999; /* Safari 和 Chrome */
+	box-shadow: 1px 1px 5px #999; /* Opera 10.5 + */
+}
+#footer {
+	background-color: #f4f4f4;
+	text-align: center;
+	height: 230px;
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 12px;
+	color: #666;
+	padding-top: 10px;
+	border: solid 1px #CCC; /* 邊框樣式 */
+	-moz-box-shadow: 1px 1px 5px #999; /* Firefox */
+	-webkit-box-shadow: 1px 1px 5px #999; /* Safari 和 Chrome */
+	box-shadow: 1px 1px 5px #999; /* Opera 10.5 + */
+}
+#main1 {
+	background-image: url(file:///E|/%E5%90%84%E7%AB%A0%E7%AF%80%E9%99%84%E6%AA%94/ch14/images/a002.jpg);
+	height: 6px;
+}
+#main2 {
+	float: left;
+	width: 200px;
+}
+#main3 {
+	float: left;
+	width: auto;
+}
+#main4 {
+	background-image: url(file:///E|/%E5%90%84%E7%AB%A0%E7%AF%80%E9%99%84%E6%AA%94/ch14/images/a005.jpg);
+	height: 5px;
+	clear: both;
+}
+#header1 {
+	height: 107px;
+}
+#header2 {
+	height: 46px;
+}
+
